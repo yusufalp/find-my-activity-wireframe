@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+nav, footer {
+  background-color: beige;
+}
+
+header {
+ background-color: khaki;
+}
+
+ul {
+  list-style: none;
+}
+
+nav li,
+.social h3 {
+  display: inline;
+  margin: 0 12px;
+}
+
+label {
+  display: block;
+}
